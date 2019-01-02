@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/randomtask1155/xmlresponder",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v79",
+	"Packages": [
+		"."
+	],
+	"Deps": []
+}
